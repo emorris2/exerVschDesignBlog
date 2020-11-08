@@ -1,4 +1,5 @@
 # V School Assignment - Design a Blog
+# Link to repl page - https://exerVschDesignBlog.emorris2.repl.co
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Fork this assignment so you can work on your own copy.
